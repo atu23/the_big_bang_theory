@@ -1,1 +1,7 @@
- An aspiring actress from Omaha, Nebraska. Penny moves in across the hall from Sheldon and Leonard. She waits and occasionally tends the bar at the Cheesecake Factory. After giving up hope of becoming a successful actress, Penny becomes a pharmaceutical sales representative. Penny becomes friends with Bernadette and Amy, and they often hang out in each other's apartments. Penny and Leonard form a relationship and eventually marry.
+
+#Penny
+
+1. An aspiring actress from Omaha, Nebraska. 
+1. Penny moves in across the hall from ***Sheldon*** and ***Leonard***. She waits and occasionally tends the bar at the Cheesecake Factory. 
+1. After giving up hope of becoming a successful actress, Penny becomes a pharmaceutical sales representative. 
+1. Penny and Leonard form a relationship and eventually marry.
