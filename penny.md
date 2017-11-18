@@ -1,5 +1,5 @@
 
-#Penny
+# Penny
 
 1. An aspiring actress from Omaha, Nebraska. 
 1. Penny moves in across the hall from ***Sheldon*** and ***Leonard***. She waits and occasionally tends the bar at the Cheesecake Factory. 

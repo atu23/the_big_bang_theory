@@ -1,5 +1,5 @@
   
-#Leonard
+# Leonard
 
 1. An experimental physicist with an IQ of 173, who received his PhD when he was 24 years old. 
 1. Leonard is a nerd who loves video games, comic books, and Dungeons & Dragons. 
